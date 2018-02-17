@@ -1,21 +1,22 @@
-# Documento de Visão do Projeto "NOME DO PROJETO"
+# Documento de Visão do Projeto "Gestão de Inovação (RFP Banco do Brasil)"
 
-Este documento apresenta uma solução de software para o projeto *"NOME DO PROJETO"*, solicitado pelo cliente *"NOME DO CLIENTE"*, 
+Este documento apresenta uma solução de software para o projeto *"Gestão de Inovação"*, solicitado pelo cliente *"BANCO DO BRASIL"*, 
 apresentando os problemas a serem solucionados, as necessidades dos principais envolvidos, o alcance do projeto e as funcionalidades 
 esperadas do sistema.
 
 ## Objetivos
 
-* Objetivo 1
-* Objetivo 2
-* Objetivo 3
-* etc.
+* Ideação 
+* Colaboração
+* Desenvolvimento de ideias
+* Gestão de Ideias
+* Administração do sistema
 
-## Problema
+## Problema 
 
-* Descrição do problema: ___
-* Quem é afetado pelo problema: ____
-* Impacto no negócio: ___
+* Descrição do problema: o BB quer um software para reunir ideis de produtividade, inovação para o aumento de sua produtividade
+* Quem é afetado pelo problema: o proprio Banco do Brasil
+* Impacto no negócio: 
 * Benefícios de uma boa solução: ___
 
 ## Definições, abreviações e outros termos do domínio do problema

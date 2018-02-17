@@ -16,49 +16,40 @@ esperadas do sistema.
 
 * Descrição do problema: o BB quer um software para reunir ideis de produtividade, inovação para o aumento de sua produtividade
 * Quem é afetado pelo problema: o proprio Banco do Brasil
-* Impacto no negócio: 
-* Benefícios de uma boa solução: ___
+* Impacto no negócio: reunião o maior numero de ideias
+* Benefícios de uma boa solução: criar topicos a partir das ideias dos usuários do software
 
 ## Definições, abreviações e outros termos do domínio do problema
 
-* Definição 1
-* Definição 2
-* Definição 3
-* etc.
+* possibilitar a administração do sistema por meio de interface própria para gestão de acesso, configurações e parametrizações
 
 ## Integração com outros sistemas
 
-* Sistema externo 1
-* Sistema externo 2
-* Sistema externo 3
-* etc.
+* Forum de discuções, rede de relacionamentos, blogs, wikis, etc.
  
 ## Interessados
 
-* Tipo de interessado 1
-* Tipo de interessado 2
-* Tipo de interessado 3
-* etc.
+* Adminsitração do Banco
+* Gestão de portifólio de 
 
 ## Usuários
 
-* Tipo de usuário 1
-* Tipo de usuário 2
-* Tipo de usuário 3
-* etc.
+* acionistas 
+* funcionários
+* terceiros
+* demais usuários internos do Banco
 
 ## Funcionalidades do produto
 
-* Funcionalidade 1
-* Funcionalidade 2
-* etc.
+* captar as ideias para o aumento da inovação da DITEC por meio de lançamento de campanhas e desafios 
+* realizar interação com meio de rede sociais relacionais ao banco
+* reunir e criar topicos por meios das ideis recebidas e criar estagios, funis entre outros meios de filtrar as ideias recebidas
+* gerenciar e acompenhar as ideias por meios de relatórios, graficos, etc.
+* o adminsitrador que utilizará o sistema tera uma interface para gerenciar os acessos, configurações e parametrização do sistema 
 
 ## Restrições do projeto
 
-* Restrição 1
-* Restrição 2
-* Restrição 3
-* etc.
+* não permitir que a tela seja copiada ou divulgada fora do banco
 
 ## Protótipos de tela
 
